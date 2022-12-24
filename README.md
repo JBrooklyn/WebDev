@@ -1,2 +1,2 @@
-# Basci Web Devopment Practice
+# Basic Web Devopment Practice
 Testin the waters here...
